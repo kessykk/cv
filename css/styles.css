@@ -20,6 +20,9 @@ body{
   color:rgb(46,188,174)!important;
 
 }
+.container{
+  margin-left:0px!important;
+}
 .contrastThemeColor{
   background-color: rgb(194,216,74);
 }
