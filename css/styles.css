@@ -2,6 +2,10 @@ body{
 
 
 }
+.container{
+  margin-left:0px!important;
+  max-width:960px;
+}
 .header_bg{
   /*background-image: url("../assets/images/header_bg.png");
   rgb(194,216,74)*/
