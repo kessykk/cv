@@ -4,7 +4,7 @@ body{
 }
 .container{
   margin-left:0px!important;
-  max-width:960px;
+  max-width:860px!important;
 }
 .header_bg{
   /*background-image: url("../assets/images/header_bg.png");
